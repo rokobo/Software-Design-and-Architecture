@@ -25,7 +25,7 @@ This part focuses on object-oriented analysis and design. Principles and guideli
 
 4. Rewrite the program in `1.4_SharingApp` using the instructions in the provided pdf file:
 
-    ## [Click here for PDF file with the provided instructions!](https://github.com/rokobo/Software-Design-and-Architecture/tree/main/1_Object-Oriented-Design/1.4_CapstoneAssignmentInstructions.pdf)
+    ## [Click here for instructions PDF!](https://github.com/rokobo/Software-Design-and-Architecture/tree/main/1_Object-Oriented-Design/1.4_CapstoneAssignmentInstructions.pdf)
 
 
 ## Design patterns
