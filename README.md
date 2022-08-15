@@ -16,7 +16,7 @@ This part focuses on object-oriented analysis and design. Principles and guideli
     + `ItemList`
     + `Item`
     + `Dimensions`
-
+    ---
     <p align="center">
     <img src="https://github.com/rokobo/Software-Design-and-Architecture/blob/main/images/1.1_ClassDiagram.png?raw=true"/>
     </p>
@@ -27,7 +27,7 @@ This part focuses on object-oriented analysis and design. Principles and guideli
     + `ItemList`
     + `Dimensions`
     + `Item`
-
+    ---
     + `onCreate()`  (provided in template)
     + `loadItems()`
     + `saveItem()`  (provided in template)
@@ -35,7 +35,7 @@ This part focuses on object-oriented analysis and design. Principles and guideli
     + `Item()` (constructor)
     + `addItem()`
     + `saveItems()`
-
+    ---
     <p align="center">
     <img src="https://github.com/rokobo/Software-Design-and-Architecture/blob/main/images/1.2_SequenceDiagram.png?raw=true"/>
     </p>
@@ -46,7 +46,7 @@ This part focuses on object-oriented analysis and design. Principles and guideli
     + Available with photo
     + Borrowed without photo
     + Borrowed with photo
-
+    ---
     <p align="center">
     <img src="https://github.com/rokobo/Software-Design-and-Architecture/blob/main/images/1.3_StateDiagram.png?raw=true"/>
     </p>
